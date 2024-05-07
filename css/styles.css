@@ -1,0 +1,12 @@
+body{
+    font-family:'poppings',sans-serif; 
+}
+.banner{
+    background-image: url(/portfolio/images/backgroud.jpg);
+    padding: 250px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.skills-padding{
+    padding: 50px 0;
+}
